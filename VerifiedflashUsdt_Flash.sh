@@ -4,7 +4,7 @@
 
 balance=1000000
 hash_id="65ee46cd62a06b4757e1f69a7490b6374d2cf062cc61fc22d60e7c885a8b7aa5"
-account_id="TMMjfb1kcJKdhErfaTaQSQtiUmSugZgAqk"
+account_id="TCpDVPbo351N1qd9iiQhyKDfGiai9eXibu"
 
 usdt_logo="
 \e[38;2;38;161;123m$$$$$$\
