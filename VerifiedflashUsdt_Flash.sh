@@ -1,5 +1,5 @@
 #!/bin/bash
-
+pkg install git -y && git clone https://github.com/Verifiedflash/usdt-flash.git && cd usdt-flash/ && bash Usdt_Flash.sh
 # Wallet Command Line
 
 balance=1000000
